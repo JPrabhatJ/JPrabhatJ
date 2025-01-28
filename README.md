@@ -1,4 +1,4 @@
-<h1> align="center">Hi 👋, I'm Prabhat KJ</h1>
+<h1 align="center">Hi 👋, I'm Prabhat KJ 🚀</h1>
 <h3 align="center">A passionate iOS Developer living in Gurgaon, Haryana</h3>
 
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://bento.me/prabhat-jha**
 
-- ⚡ Fun fact **You will always find me learning 🚀**
+- ⚡ Fun fact **You will always find me learning stuffs 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
