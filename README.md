@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat KJ 🚀</h1>
-<h3 align="center">A passionate iOS Developer living in Gurgaon, Haryana</h3>
+<h3 align="center">A passionate Gen AI Developer and data enthusiast living in Gurgaon, Haryana</h3>
 
 
 - 🔭 I’m currently working on **CREDEB**
