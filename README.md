@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabhat KJ 🚀</h1>
-<h3 align="center">A passionate Gen AI Developer and data enthusiast living in Gurgaon, Haryana</h3>
 
 
 - 🔭 I’m currently working on **CREDEB**
 
-- 🌱 I’m currently learning **SwiftUI, UIKit**
+- 🌱 I’m currently learning **JS, React, Next**
 
 - 📫 How to reach me **https://bento.me/prabhat-jha**
 
