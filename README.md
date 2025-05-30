@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prabhat 🚀</h1>
 
-- 🌱 I’m currently learning **JS, React, Next**
+- I’m currently learning **JS, React, Next**
 
-- 📫 How to reach me **https://bento.me/prabhat-jha**
+- How to reach me **https://bento.me/prabhat-jha**
 
-- ⚡ Fun fact **You will always find me learning stuffs 🚀**
+- Fun fact **You will always find me learning stuffs 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
