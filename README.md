@@ -56,8 +56,8 @@
 </p>
 
 <h3 align="left">Listed Projects</h3>
-<a href="https://hence-media.vercel.app/" target="_blank" rel="noreferrer">
-<a href="https://thriver-jhaprabhat268-gmailcoms-projects.vercel.app/" target="_blank" rel="noreferrer">
+<a href="https://hence-media.vercel.app/" target="_blank" rel="noreferrer">  </a>
+<a href="https://thriver-jhaprabhat268-gmailcoms-projects.vercel.app/" target="_blank" rel="noreferrer">   </a>
 
 
 
