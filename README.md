@@ -56,14 +56,11 @@
 </p>
 
 <h3 align="left">Listed Projects</h3>
-<a href="https://hence-media.vercel.app/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/80d84e7d-1683-4ad3-b5cb-3f00ef47c78c
-" alt="Hence Media" width="300" />
-</a>
-<a href="https://thriver-jhaprabhat268-gmailcoms-projects.vercel.app/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/24386e5c-817c-4efe-9eca-816cbaf26dac
-" alt="Thriver App" width="300" />
-</a>
+<ul>
+  <li><a href="https://hence-media.vercel.app/" target="_blank" rel="noreferrer">Hence Media 🚀</a></li>
+  <li><a href="https://thriver-jhaprabhat268-gmailcoms-projects.vercel.app/" target="_blank" rel="noreferrer">Thriver App 💼</a></li>
+</ul>
+
 
 
 
