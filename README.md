@@ -53,6 +53,10 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/95fac589-03c1-4492-a2c1-681621764153" alt="vercel" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
 </p>
 
 <h3 align="left">Listed Projects</h3>
